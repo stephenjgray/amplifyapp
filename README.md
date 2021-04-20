@@ -1,3 +1,7 @@
+an example app created using AWS amplify and Create React App
+
+https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-five/?e=gs2020&p=build-a-react-app-four
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
